@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 30 14:58:11 2019
-
-@author: xll
-"""
-
 ######################
 # Python implementation of algorithm in
 # Buades el al: Fast Cartoon + Texture Image Filters,IEEE Image Processing (2010)
